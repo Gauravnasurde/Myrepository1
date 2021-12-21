@@ -16,6 +16,7 @@ public class Demo {
                 System.out.println("Pull request");
 			Demo d=new Demo();
 		             d.m1();
+		             System.out.println("m1 method");
 
 	}
 
